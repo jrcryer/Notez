@@ -1,0 +1,275 @@
+TNotez
+v7
+r0
+t338507708.800164
+cCheck dependencies
+cProcessInfoPlistFile /Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/Info.plist Notez-Info.plist
+cCompileXIB /Users/charlottepitchford/Apps/Notez/MainWindow.xib
+cProcessPCH /var/folders/vO/vOa49aUBGiiQY3AWWj8XC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Notez_Prefix-hjvmwoopyasbokeqzekiyghtcviw/Notez_Prefix.pch.gch Notez_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/Notez.momd /Users/charlottepitchford/Apps/Notez/Notez.xcdatamodeld
+cCompileC build/Notez.build/Debug-iphonesimulator/Notez.build/Objects-normal/i386/main.o /Users/charlottepitchford/Apps/Notez/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Notez.build/Debug-iphonesimulator/Notez.build/Objects-normal/i386/NotezAppDelegate.o /Users/charlottepitchford/Apps/Notez/Classes/NotezAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Notez.build/Debug-iphonesimulator/Notez.build/Objects-normal/i386/NoteListViewController.o /Users/charlottepitchford/Apps/Notez/Classes/NoteListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/Notez normal i386
+cGenerateDSYMFile /Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app.dSYM /Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/Notez
+cTouch /Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC12294000000000000046B
+t1287725716
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/charlottepitchford/Apps/Notez/Classes/NoteListViewController.h
+c000000004E7CFF3A00000000000000F0
+t1316814650
+s240
+i<UIKit/UIKit.h>
+
+N/Users/charlottepitchford/Apps/Notez/Classes/NoteListViewController.m
+c000000004E7CFF9600000000000012BB
+t1316814742
+s4795
+i"NoteListViewController.h"
+
+N/Users/charlottepitchford/Apps/Notez/Classes/NotezAppDelegate.h
+c000000004E7CFE8400000000000003C9
+t1316814468
+s969
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/charlottepitchford/Apps/Notez/Classes/NotezAppDelegate.m
+c000000004E7D002E0000000000001F55
+t1316814894
+s8021
+i"NotezAppDelegate.h"
+i"NoteListViewController.h"
+
+N/Users/charlottepitchford/Apps/Notez/MainWindow.xib
+c000000004E7CFF130000000000005375
+t1316814611
+s21365
+
+N/Users/charlottepitchford/Apps/Notez/Notez.xcdatamodeld
+c000000004E7CFE490000000000000088
+t1316814409
+s136
+
+N/Users/charlottepitchford/Apps/Notez/Notez_Prefix.pch
+c000000004E7CFDC7000000000000015E
+t1316814279
+s350
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app
+t1316814908
+s238
+
+N/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app.dSYM
+t1316814908
+s102
+
+N/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/Info.plist
+t1316814894
+s583
+
+N/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/MainWindow.nib
+t1316814900
+s1302
+
+N/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/Notez
+t1316814908
+s24060
+
+N/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/Notez.momd
+t1316814906
+s136
+
+N/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/PkgInfo
+t1316814894
+s8
+
+N/Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Objects-normal/i386/NoteListViewController.o
+t1316814907
+s42432
+
+N/Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Objects-normal/i386/Notez.LinkFileList
+c000000004E7D002E000000000000017A
+t1316814894
+s378
+
+N/Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Objects-normal/i386/NotezAppDelegate.o
+t1316814906
+s66360
+
+N/Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Objects-normal/i386/main.o
+t1316814906
+s6300
+
+N/Users/charlottepitchford/Apps/Notez/main.m
+c000000004E7CFDC70000000000000164
+t1316814279
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/vO/vOa49aUBGiiQY3AWWj8XC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Notez_Prefix-hjvmwoopyasbokeqzekiyghtcviw/Notez_Prefix.pch.gch
+t1316814905
+s16326640
+
+NNotez-Info.plist
+c000000004E7CFDC6000000000000038D
+t1316814278
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies338507694#338507694#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Notez.build/Debug-iphonesimulator/Notez.build/Objects-normal/i386/NoteListViewController.o /Users/charlottepitchford/Apps/Notez/Classes/NoteListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338507706.946452
+e338507707.024530
+r1
+xCompileC
+xbuild/Notez.build/Debug-iphonesimulator/Notez.build/Objects-normal/i386/NoteListViewController.o
+x/Users/charlottepitchford/Apps/Notez/Classes/NoteListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/charlottepitchford/Apps/Notez/Classes/NoteListViewController.m338507706#338507707#0(0"0(0#0#69"/Users/charlottepitchford/Apps/Notez/Classes/NoteListViewController.m8614829536#1896"    cd /Users/charlottepitchford/Apps/Notez    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Notez-generated-files.hmap -I/Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Notez-own-target-headers.hmap -I/Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Notez-all-target-headers.hmap -iquote /Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Notez-project-headers.hmap -F/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator -I/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/include -I/Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/DerivedSources/i386 -I/Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/DerivedSources -include /var/folders/vO/vOa49aUBGiiQY3AWWj8XC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Notez_Prefix-hjvmwoopyasbokeqzekiyghtcviw/Notez_Prefix.pch -c /Users/charlottepitchford/Apps/Notez/Classes/NoteListViewController.m -o /Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Objects-normal/i386/NoteListViewController.o0#
+
+CCompileC build/Notez.build/Debug-iphonesimulator/Notez.build/Objects-normal/i386/NotezAppDelegate.o /Users/charlottepitchford/Apps/Notez/Classes/NotezAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338507706.680524
+e338507706.946320
+r1
+xCompileC
+xbuild/Notez.build/Debug-iphonesimulator/Notez.build/Objects-normal/i386/NotezAppDelegate.o
+x/Users/charlottepitchford/Apps/Notez/Classes/NotezAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/charlottepitchford/Apps/Notez/Classes/NotezAppDelegate.m338507706#338507706#0(0"0(0#0#63"/Users/charlottepitchford/Apps/Notez/Classes/NotezAppDelegate.m8613998304#1884"    cd /Users/charlottepitchford/Apps/Notez    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Notez-generated-files.hmap -I/Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Notez-own-target-headers.hmap -I/Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Notez-all-target-headers.hmap -iquote /Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Notez-project-headers.hmap -F/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator -I/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/include -I/Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/DerivedSources/i386 -I/Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/DerivedSources -include /var/folders/vO/vOa49aUBGiiQY3AWWj8XC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Notez_Prefix-hjvmwoopyasbokeqzekiyghtcviw/Notez_Prefix.pch -c /Users/charlottepitchford/Apps/Notez/Classes/NotezAppDelegate.m -o /Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Objects-normal/i386/NotezAppDelegate.o0#
+
+CCompileC build/Notez.build/Debug-iphonesimulator/Notez.build/Objects-normal/i386/main.o /Users/charlottepitchford/Apps/Notez/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338507706.423621
+e338507706.680405
+r1
+xCompileC
+xbuild/Notez.build/Debug-iphonesimulator/Notez.build/Objects-normal/i386/main.o
+x/Users/charlottepitchford/Apps/Notez/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/charlottepitchford/Apps/Notez/main.m338507706#338507706#0(0"0(0#0#43"/Users/charlottepitchford/Apps/Notez/main.m8614393184#1852"    cd /Users/charlottepitchford/Apps/Notez    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Notez-generated-files.hmap -I/Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Notez-own-target-headers.hmap -I/Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Notez-all-target-headers.hmap -iquote /Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Notez-project-headers.hmap -F/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator -I/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/include -I/Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/DerivedSources/i386 -I/Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/DerivedSources -include /var/folders/vO/vOa49aUBGiiQY3AWWj8XC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Notez_Prefix-hjvmwoopyasbokeqzekiyghtcviw/Notez_Prefix.pch -c /Users/charlottepitchford/Apps/Notez/main.m -o /Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/charlottepitchford/Apps/Notez/MainWindow.xib
+s338507694.930748
+e338507700.827849
+r1
+xCompileXIB
+x/Users/charlottepitchford/Apps/Notez/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib338507694#338507700#0(0"0(0#0#51"/Users/charlottepitchford/Apps/Notez/MainWindow.xib8614512352#562"    cd /Users/charlottepitchford/Apps/Notez    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/MainWindow.nib /Users/charlottepitchford/Apps/Notez/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CDataModelVersionCompile /Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/Notez.momd /Users/charlottepitchford/Apps/Notez/Notez.xcdatamodeld
+s338507705.848255
+e338507706.423515
+r1
+xDataModelVersionCompile
+x/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/Notez.momd
+x/Users/charlottepitchford/Apps/Notez/Notez.xcdatamodeld
+lSLF07#2@91"DataModelVersionCompile build/Debug-iphonesimulator/Notez.app/Notez.momd Notez.xcdatamodeld338507705#338507706#0(0"0(0#0#55"/Users/charlottepitchford/Apps/Notez/Notez.xcdatamodeld8615149728#374"    cd /Users/charlottepitchford/Apps/Notez    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/charlottepitchford/Apps/Notez/Notez.xcdatamodeld /Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/Notez.momd0#
+
+CGenerateDSYMFile /Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app.dSYM /Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/Notez
+s338507708.371453
+e338507708.757215
+r1
+xGenerateDSYMFile
+x/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app.dSYM
+x/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/Notez
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Notez.app.dSYM build/Debug-iphonesimulator/Notez.app/Notez338507708#338507708#0(0"0(0#0#80"/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/Notez8614814336#371"    cd /Users/charlottepitchford/Apps/Notez    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/Notez -o /Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app.dSYM0#
+
+CLd /Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/Notez normal i386
+s338507707.024643
+e338507708.371200
+r1
+xLd
+x/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/Notez
+xnormal
+xi386
+lSLF07#2@85"Link /Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/Notez338507707#338507708#0(0"0(0#0#0"8614680032#900"    cd /Users/charlottepitchford/Apps/Notez    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator -F/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator -filelist /Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Objects-normal/i386/Notez.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/Notez0#
+
+CProcessInfoPlistFile /Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/Info.plist Notez-Info.plist
+s338507694.826280
+e338507694.930638
+r1
+xProcessInfoPlistFile
+x/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/Info.plist
+xNotez-Info.plist
+lSLF07#2@24"Process Notez-Info.plist338507694#338507694#0(0"0(0#0#53"/Users/charlottepitchford/Apps/Notez/Notez-Info.plist28429445101453416#467"    cd /Users/charlottepitchford/Apps/Notez    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Notez-Info.plist -genpkginfo /Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app/Info.plist0#
+
+CProcessPCH /var/folders/vO/vOa49aUBGiiQY3AWWj8XC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Notez_Prefix-hjvmwoopyasbokeqzekiyghtcviw/Notez_Prefix.pch.gch Notez_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s338507700.828119
+e338507705.847972
+r1
+xProcessPCH
+x/var/folders/vO/vOa49aUBGiiQY3AWWj8XC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Notez_Prefix-hjvmwoopyasbokeqzekiyghtcviw/Notez_Prefix.pch.gch
+xNotez_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Notez_Prefix.pch338507700#338507705#0(0"0(0#0#53"/Users/charlottepitchford/Apps/Notez/Notez_Prefix.pch8614320256#1748"    cd /Users/charlottepitchford/Apps/Notez    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Notez-generated-files.hmap -I/Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Notez-own-target-headers.hmap -I/Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Notez-all-target-headers.hmap -iquote /Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/Notez-project-headers.hmap -F/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator -I/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/include -I/Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/DerivedSources/i386 -I/Users/charlottepitchford/Apps/Notez/build/Notez.build/Debug-iphonesimulator/Notez.build/DerivedSources -c /Users/charlottepitchford/Apps/Notez/Notez_Prefix.pch -o /var/folders/vO/vOa49aUBGiiQY3AWWj8XC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Notez_Prefix-hjvmwoopyasbokeqzekiyghtcviw/Notez_Prefix.pch.gch0#
+
+CTouch /Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app
+s338507708.757334
+e338507708.800100
+r1
+xTouch
+x/Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app
+lSLF07#2@80"Touch /Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app338507708#338507708#0(0"0(0#0#0"8614105696#272"    cd /Users/charlottepitchford/Apps/Notez    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/charlottepitchford/Apps/Notez/build/Debug-iphonesimulator/Notez.app0#
+

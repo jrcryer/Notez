@@ -1,0 +1,17 @@
+In file included from /Users/charlottepitchford/Apps/Notez/Classes/DataViewController.m:9:
+/Users/charlottepitchford/Apps/Notez/Classes/DataViewController.h:19: error: expected specifier-qualifier-list before 'NSFetchResultsController'
+/Users/charlottepitchford/Apps/Notez/Classes/DataViewController.m: In function '-[DataViewController initWithTitle:andEntity:]':
+/Users/charlottepitchford/Apps/Notez/Classes/DataViewController.m:22: error: request for member 'entityIdentifer' in something not a structure or union
+/Users/charlottepitchford/Apps/Notez/Classes/DataViewController.m:22: error: 'entityDesc' undeclared (first use in this function)
+/Users/charlottepitchford/Apps/Notez/Classes/DataViewController.m:22: error: (Each undeclared identifier is reported only once
+/Users/charlottepitchford/Apps/Notez/Classes/DataViewController.m:22: error: for each function it appears in.)
+/Users/charlottepitchford/Apps/Notez/Classes/DataViewController.m: At top level:
+/Users/charlottepitchford/Apps/Notez/Classes/DataViewController.m:75: error: expected ')' before 'NSFetchResultsController'
+/Users/charlottepitchford/Apps/Notez/Classes/DataViewController.m: In function '-[DataViewController fetchController]':
+/Users/charlottepitchford/Apps/Notez/Classes/DataViewController.m:82: warning: incompatible Objective-C types 'struct NSEntityDescription *', expected 'struct NSString *' when passing argument 1 of 'entityForName:inManagedObjectContext:' from distinct Objective-C type
+/Users/charlottepitchford/Apps/Notez/Classes/DataViewController.m:82: warning: unused variable 'entity'
+/Users/charlottepitchford/Apps/Notez/Classes/DataViewController.m:81: warning: unused variable 'fetchRequest'
+/Users/charlottepitchford/Apps/Notez/Classes/DataViewController.m:85: warning: control reaches end of non-void function
+/Users/charlottepitchford/Apps/Notez/Classes/DataViewController.m: At top level:
+/Users/charlottepitchford/Apps/Notez/Classes/DataViewController.m:112: warning: property 'managedContext' requires method '-managedContext' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/charlottepitchford/Apps/Notez/Classes/DataViewController.m:112: warning: property 'managedContext' requires the method 'setManagedContext:' to be defined - use @synthesize, @dynamic or provide a method implementation
