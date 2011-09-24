@@ -2,7 +2,7 @@
 //  NotezAppDelegate.h
 //  Notez
 //
-//  Created by Charlotte Pitchford on 23/09/2011.
+//  Created by James Cryer on 23/09/2011.
 //  Copyright 2011 Home. All rights reserved.
 //
 

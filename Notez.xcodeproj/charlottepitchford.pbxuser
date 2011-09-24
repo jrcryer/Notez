@@ -2,16 +2,16 @@
 {
 	1D3623240D0F684500981E51 /* NotezAppDelegate.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {979, 511}}";
-			sepNavSelRange = "{498, 0}";
-			sepNavVisRange = "{0, 969}";
+			sepNavIntBoundsRect = "{{0, 0}, {979, 442}}";
+			sepNavSelRange = "{490, 0}";
+			sepNavVisRange = "{0, 960}";
 		};
 	};
 	1D3623250D0F684500981E51 /* NotezAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1090, 2834}}";
-			sepNavSelRange = "{1048, 0}";
-			sepNavVisRange = "{0, 1446}";
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 2795}}";
+			sepNavSelRange = "{357, 0}";
+			sepNavVisRange = "{0, 1230}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* Notez */ = {
@@ -216,22 +216,34 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 338549542;
-			PBXWorkspaceStateSaveDate = 338549542;
+			PBXPerProjectTemplateStateSaveDate = 338550917;
+			PBXWorkspaceStateSaveDate = 338550917;
 		};
 		perUserProjectItems = {
-			B83E471F142D3633006157C8 /* PBXTextBookmark */ = B83E471F142D3633006157C8 /* PBXTextBookmark */;
-			B83E4791142D4DCE006157C8 /* PBXTextBookmark */ = B83E4791142D4DCE006157C8 /* PBXTextBookmark */;
-			B84E27F9142DDCEC00F26153 /* PBXTextBookmark */ = B84E27F9142DDCEC00F26153 /* PBXTextBookmark */;
-			B84E27FA142DDCEC00F26153 /* PBXTextBookmark */ = B84E27FA142DDCEC00F26153 /* PBXTextBookmark */;
-			B84E27FB142DDCEC00F26153 /* PBXTextBookmark */ = B84E27FB142DDCEC00F26153 /* PBXTextBookmark */;
-			B84E27FC142DDCEC00F26153 /* PBXTextBookmark */ = B84E27FC142DDCEC00F26153 /* PBXTextBookmark */;
-			B84E2816142DDFD800F26153 /* PBXTextBookmark */ = B84E2816142DDFD800F26153 /* PBXTextBookmark */;
-			B86E094F142D5030002C89F5 /* XDModelBookmark */ = B86E094F142D5030002C89F5 /* XDModelBookmark */;
-			B86E0950142D5030002C89F5 /* PBXTextBookmark */ = B86E0950142D5030002C89F5 /* PBXTextBookmark */;
-			B86E0965142D5589002C89F5 /* PBXTextBookmark */ = B86E0965142D5589002C89F5 /* PBXTextBookmark */;
-			B86E0966142D5589002C89F5 /* PBXTextBookmark */ = B86E0966142D5589002C89F5 /* PBXTextBookmark */;
-			B86E096A142D5589002C89F5 /* PBXTextBookmark */ = B86E096A142D5589002C89F5 /* PBXTextBookmark */;
+			B83E471F142D3633006157C8 = B83E471F142D3633006157C8 /* PBXTextBookmark */;
+			B83E4791142D4DCE006157C8 = B83E4791142D4DCE006157C8 /* PBXTextBookmark */;
+			B84519D3142DE10300122BE8 /* PlistBookmark */ = B84519D3142DE10300122BE8 /* PlistBookmark */;
+			B84519D4142DE10300122BE8 /* PBXTextBookmark */ = B84519D4142DE10300122BE8 /* PBXTextBookmark */;
+			B84519D5142DE10300122BE8 /* PBXTextBookmark */ = B84519D5142DE10300122BE8 /* PBXTextBookmark */;
+			B84519D6142DE10300122BE8 /* PBXTextBookmark */ = B84519D6142DE10300122BE8 /* PBXTextBookmark */;
+			B84519D7142DE10300122BE8 /* PBXTextBookmark */ = B84519D7142DE10300122BE8 /* PBXTextBookmark */;
+			B84519D8142DE10300122BE8 /* PBXTextBookmark */ = B84519D8142DE10300122BE8 /* PBXTextBookmark */;
+			B84519D9142DE10300122BE8 /* PBXTextBookmark */ = B84519D9142DE10300122BE8 /* PBXTextBookmark */;
+			B84519DA142DE10300122BE8 /* PBXTextBookmark */ = B84519DA142DE10300122BE8 /* PBXTextBookmark */;
+			B84519DB142DE10300122BE8 /* PBXTextBookmark */ = B84519DB142DE10300122BE8 /* PBXTextBookmark */;
+			B84519DC142DE10300122BE8 /* PBXTextBookmark */ = B84519DC142DE10300122BE8 /* PBXTextBookmark */;
+			B84519DD142DE10300122BE8 /* PBXTextBookmark */ = B84519DD142DE10300122BE8 /* PBXTextBookmark */;
+			B84519DE142DE10300122BE8 /* PBXTextBookmark */ = B84519DE142DE10300122BE8 /* PBXTextBookmark */;
+			B84E27F9142DDCEC00F26153 = B84E27F9142DDCEC00F26153 /* PBXTextBookmark */;
+			B84E27FA142DDCEC00F26153 = B84E27FA142DDCEC00F26153 /* PBXTextBookmark */;
+			B84E27FB142DDCEC00F26153 = B84E27FB142DDCEC00F26153 /* PBXTextBookmark */;
+			B84E27FC142DDCEC00F26153 = B84E27FC142DDCEC00F26153 /* PBXTextBookmark */;
+			B84E2816142DDFD800F26153 = B84E2816142DDFD800F26153 /* PBXTextBookmark */;
+			B86E094F142D5030002C89F5 = B86E094F142D5030002C89F5 /* XDModelBookmark */;
+			B86E0950142D5030002C89F5 = B86E0950142D5030002C89F5 /* PBXTextBookmark */;
+			B86E0965142D5589002C89F5 = B86E0965142D5589002C89F5 /* PBXTextBookmark */;
+			B86E0966142D5589002C89F5 = B86E0966142D5589002C89F5 /* PBXTextBookmark */;
+			B86E096A142D5589002C89F5 = B86E096A142D5589002C89F5 /* PBXTextBookmark */;
 		};
 		sourceControlManager = B83E471B142D3555006157C8 /* Source Control */;
 		userBuildSettings = {
@@ -286,52 +298,52 @@
 		fRef = 1D3623240D0F684500981E51 /* NotezAppDelegate.h */;
 		name = "NotezAppDelegate.h: 21";
 		rLen = 0;
-		rLoc = 498;
+		rLoc = 490;
 		rType = 0;
 		vrLen = 969;
 		vrLoc = 0;
 	};
 	B83E4723142D36BA006157C8 /* NoteListViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {979, 440}}";
-			sepNavSelRange = "{613, 5}";
-			sepNavVisRange = "{0, 673}";
+			sepNavIntBoundsRect = "{{0, 0}, {979, 410}}";
+			sepNavSelRange = "{605, 5}";
+			sepNavVisRange = "{0, 665}";
 		};
 	};
 	B83E4724142D36BA006157C8 /* NoteListViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1097, 3835}}";
-			sepNavSelRange = "{943, 292}";
-			sepNavVisRange = "{846, 695}";
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 3926}}";
+			sepNavSelRange = "{1399, 0}";
+			sepNavVisRange = "{821, 667}";
 		};
 	};
 	B83E474D142D3899006157C8 /* PasswordListViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {979, 439}}";
-			sepNavSelRange = "{605, 0}";
-			sepNavVisRange = "{0, 717}";
+			sepNavIntBoundsRect = "{{0, 0}, {979, 410}}";
+			sepNavSelRange = "{597, 0}";
+			sepNavVisRange = "{0, 709}";
 			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
 		};
 	};
 	B83E474E142D3899006157C8 /* PasswordListViewController.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1048, 3783}}";
-			sepNavSelRange = "{4798, 0}";
-			sepNavVisRange = "{4358, 935}";
+			sepNavSelRange = "{4792, 0}";
+			sepNavVisRange = "{4350, 862}";
 		};
 	};
 	B83E4778142D4677006157C8 /* NoteViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {979, 417}}";
-			sepNavSelRange = "{552, 0}";
-			sepNavVisRange = "{0, 814}";
+			sepNavIntBoundsRect = "{{0, 0}, {979, 416}}";
+			sepNavSelRange = "{0, 806}";
+			sepNavVisRange = "{0, 806}";
 		};
 	};
 	B83E4779142D4677006157C8 /* NoteViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {979, 988}}";
-			sepNavSelRange = "{206, 0}";
-			sepNavVisRange = "{527, 667}";
+			sepNavIntBoundsRect = "{{0, 0}, {979, 1040}}";
+			sepNavSelRange = "{624, 0}";
+			sepNavVisRange = "{483, 652}";
 		};
 	};
 	B83E4791142D4DCE006157C8 /* PBXTextBookmark */ = {
@@ -339,9 +351,130 @@
 		fRef = 1D3623250D0F684500981E51 /* NotezAppDelegate.m */;
 		name = "NotezAppDelegate.m: 29";
 		rLen = 0;
-		rLoc = 1048;
+		rLoc = 1040;
 		rType = 0;
 		vrLen = 1446;
+		vrLoc = 0;
+	};
+	B84519D3142DE10300122BE8 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Notez-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/charlottepitchford/Apps/Notez/Notez-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	B84519D4142DE10300122BE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B86E0955142D509C002C89F5 /* PasswordViewController.m */;
+		name = "PasswordViewController.m: 48";
+		rLen = 0;
+		rLoc = 1147;
+		rType = 0;
+		vrLen = 822;
+		vrLoc = 591;
+	};
+	B84519D5142DE10300122BE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B86E0954142D509C002C89F5 /* PasswordViewController.h */;
+		name = "PasswordViewController.h: 9";
+		rLen = 0;
+		rLoc = 160;
+		rType = 0;
+		vrLen = 913;
+		vrLoc = 0;
+	};
+	B84519D6142DE10300122BE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B83E4779142D4677006157C8 /* NoteViewController.m */;
+		name = "NoteViewController.m: 33";
+		rLen = 0;
+		rLoc = 624;
+		rType = 0;
+		vrLen = 652;
+		vrLoc = 483;
+	};
+	B84519D7142DE10300122BE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B83E4778142D4677006157C8 /* NoteViewController.h */;
+		name = "NoteViewController.h: 1";
+		rLen = 806;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 806;
+		vrLoc = 0;
+	};
+	B84519D8142DE10300122BE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B83E474E142D3899006157C8 /* PasswordListViewController.m */;
+		name = "PasswordListViewController.m: 164";
+		rLen = 0;
+		rLoc = 4792;
+		rType = 0;
+		vrLen = 862;
+		vrLoc = 4350;
+	};
+	B84519D9142DE10300122BE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B83E474D142D3899006157C8 /* PasswordListViewController.h */;
+		name = "PasswordListViewController.h: 21";
+		rLen = 0;
+		rLoc = 597;
+		rType = 0;
+		vrLen = 709;
+		vrLoc = 0;
+	};
+	B84519DA142DE10300122BE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B83E4724142D36BA006157C8 /* NoteListViewController.m */;
+		name = "NoteListViewController.m: 59";
+		rLen = 0;
+		rLoc = 1399;
+		rType = 0;
+		vrLen = 667;
+		vrLoc = 821;
+	};
+	B84519DB142DE10300122BE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B83E4723142D36BA006157C8 /* NoteListViewController.h */;
+		name = "NoteListViewController.h: 22";
+		rLen = 5;
+		rLoc = 605;
+		rType = 0;
+		vrLen = 665;
+		vrLoc = 0;
+	};
+	B84519DC142DE10300122BE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NotezAppDelegate.m */;
+		name = "NotezAppDelegate.m: 20";
+		rLen = 0;
+		rLoc = 357;
+		rType = 0;
+		vrLen = 1230;
+		vrLoc = 0;
+	};
+	B84519DD142DE10300122BE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NotezAppDelegate.h */;
+		name = "NotezAppDelegate.h: 21";
+		rLen = 0;
+		rLoc = 490;
+		rType = 0;
+		vrLen = 960;
+		vrLoc = 0;
+	};
+	B84519DE142DE10300122BE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NotezAppDelegate.h */;
+		name = "NotezAppDelegate.h: 21";
+		rLen = 0;
+		rLoc = 490;
+		rType = 0;
+		vrLen = 960;
 		vrLoc = 0;
 	};
 	B84E27F9142DDCEC00F26153 /* PBXTextBookmark */ = {
@@ -349,7 +482,7 @@
 		fRef = B86E0954142D509C002C89F5 /* PasswordViewController.h */;
 		name = "PasswordViewController.h: 25";
 		rLen = 0;
-		rLoc = 669;
+		rLoc = 661;
 		rType = 0;
 		vrLen = 926;
 		vrLoc = 0;
@@ -359,7 +492,7 @@
 		fRef = B86E0955142D509C002C89F5 /* PasswordViewController.m */;
 		name = "PasswordViewController.m: 48";
 		rLen = 0;
-		rLoc = 1155;
+		rLoc = 1147;
 		rType = 0;
 		vrLen = 847;
 		vrLoc = 576;
@@ -369,7 +502,7 @@
 		fRef = B83E474D142D3899006157C8 /* PasswordListViewController.h */;
 		name = "PasswordListViewController.h: 21";
 		rLen = 0;
-		rLoc = 605;
+		rLoc = 597;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -379,7 +512,7 @@
 		fRef = B83E474E142D3899006157C8 /* PasswordListViewController.m */;
 		name = "PasswordListViewController.m: 47";
 		rLen = 0;
-		rLoc = 1270;
+		rLoc = 1262;
 		rType = 0;
 		vrLen = 749;
 		vrLoc = 874;
@@ -389,7 +522,7 @@
 		fRef = B83E474E142D3899006157C8 /* PasswordListViewController.m */;
 		name = "PasswordListViewController.m: 162";
 		rLen = 0;
-		rLoc = 4798;
+		rLoc = 4790;
 		rType = 0;
 		vrLen = 935;
 		vrLoc = 4358;
@@ -440,23 +573,23 @@
 		fRef = B83E4723142D36BA006157C8 /* NoteListViewController.h */;
 		name = "NoteListViewController.h: 22";
 		rLen = 5;
-		rLoc = 613;
+		rLoc = 605;
 		rType = 0;
 		vrLen = 673;
 		vrLoc = 0;
 	};
 	B86E0954142D509C002C89F5 /* PasswordViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {979, 462}}";
-			sepNavSelRange = "{669, 0}";
-			sepNavVisRange = "{0, 926}";
+			sepNavIntBoundsRect = "{{0, 0}, {979, 442}}";
+			sepNavSelRange = "{160, 0}";
+			sepNavVisRange = "{0, 913}";
 		};
 	};
 	B86E0955142D509C002C89F5 /* PasswordViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {979, 988}}";
-			sepNavSelRange = "{1155, 0}";
-			sepNavVisRange = "{576, 847}";
+			sepNavIntBoundsRect = "{{0, 0}, {979, 923}}";
+			sepNavSelRange = "{1147, 0}";
+			sepNavVisRange = "{591, 822}";
 		};
 	};
 	B86E0965142D5589002C89F5 /* PBXTextBookmark */ = {
@@ -464,7 +597,7 @@
 		fRef = B83E4779142D4677006157C8 /* NoteViewController.m */;
 		name = "NoteViewController.m: 10";
 		rLen = 0;
-		rLoc = 206;
+		rLoc = 198;
 		rType = 0;
 		vrLen = 667;
 		vrLoc = 527;
@@ -474,7 +607,7 @@
 		fRef = B83E4724142D36BA006157C8 /* NoteListViewController.m */;
 		name = "NoteListViewController.m: 42";
 		rLen = 292;
-		rLoc = 943;
+		rLoc = 935;
 		rType = 0;
 		vrLen = 695;
 		vrLoc = 846;
@@ -484,7 +617,7 @@
 		fRef = B83E4778142D4677006157C8 /* NoteViewController.h */;
 		name = "NoteViewController.h: 23";
 		rLen = 0;
-		rLoc = 552;
+		rLoc = 544;
 		rType = 0;
 		vrLen = 814;
 		vrLoc = 0;
